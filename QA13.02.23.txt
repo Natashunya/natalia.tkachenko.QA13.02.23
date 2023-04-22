@@ -1,0 +1,4 @@
+Natalia Tkachenko
+ git add .
+git commit
+git clone
