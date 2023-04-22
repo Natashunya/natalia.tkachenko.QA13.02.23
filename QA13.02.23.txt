@@ -3,3 +3,6 @@ Natalia Tkachenko
 git commit
 git clone
 git commit -m ""
+
+git branch
+git checkout
